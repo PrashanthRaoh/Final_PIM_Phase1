@@ -1,0 +1,5 @@
+"Material ID" = "000000000190030988"
+"Special Features" = ["No Special Features"]
+"BSA PIE Sellable Product Status" = ["Approved"]
+"Construction Style Code" = ["TS"]
+---------------------------------------

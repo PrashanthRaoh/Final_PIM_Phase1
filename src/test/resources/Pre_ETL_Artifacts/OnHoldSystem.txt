@@ -1,0 +1,5 @@
+ "Material ID" = "000000000100030481"
+ "BSA PIE Sellable Product Status" = "OnHoldSystem"
+ "Total OnHold Items" = "35"
+ "BSA PIE Sellable Product Status items" = ["Bearing Assembly Width (in)","Bearing Assembly Width (mm)","Bearing Tolerance Class","Bore Diameter (in)","Bore Diameter (mm)","Bore Type","Cage Guidance","Cage Manufacturing Method","Cage Material Type","Cage Rows","Cage Style","Construction Style Code","Flush Ground","Has Closure","Individual Inner Ring Width (in)","Individual Inner Ring Width (mm)","Individual Outer Ring Width (in)","Individual Outer Ring Width (mm)","Inner Ring Material","Lubrication Feature","Maximum Housing Fillet Radius (in)","Maximum Housing Fillet Radius (mm)","Maximum Shaft Fillet Radius (in)","Maximum Shaft Fillet Radius (mm)","Mounting Arrangement","Outer Diameter (in)","Outer Diameter (mm)","Outer Ring Profile","Preload Level","Rolling Element Material","Shaft Shoulder Diameter (in)","Shaft Shoulder Diameter (mm)","Tolerance System","Weight - Product Only (kg)","Weight - Product Only (lbs)"]
+---------------------------------------

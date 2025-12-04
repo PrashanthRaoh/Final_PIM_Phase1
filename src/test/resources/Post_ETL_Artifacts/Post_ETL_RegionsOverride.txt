@@ -1,0 +1,38 @@
+ "Material ID" = "000000000100058474"
+ "Total BSA PIE Usecase Sales Org Regions (Auto) Items" = "1"
+ "BSA PIE Usecase Sales Org Regions (Auto)" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions Items" = "1"
+ "BSA PIE Usecase Sales Org Regions" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions (Override) Items" = "0"
+ "BSA PIE Usecase Sales Org Regions (Override)" = []
+---------------------------------------
+ "Material ID" = "000000000100058474"
+ "Total BSA PIE Usecase Sales Org Regions (Auto) Items" = "1"
+ "BSA PIE Usecase Sales Org Regions (Auto)" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions Items" = "1"
+ "BSA PIE Usecase Sales Org Regions" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions (Override) Items" = "0"
+ "BSA PIE Usecase Sales Org Regions (Override)" = []
+---------------------------------------
+ "Material ID" = "000000000100058474"
+ "Total BSA PIE Usecase Sales Org Regions (Auto) Items" = "1"
+ "BSA PIE Usecase Sales Org Regions (Auto)" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions Items" = "1"
+ "BSA PIE Usecase Sales Org Regions" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions (Override) Items" = "0"
+ "BSA PIE Usecase Sales Org Regions (Override)" = []
+---------------------------------------
+ "Material ID" = "000000000100058474"
+ "Total BSA PIE Usecase Sales Org Regions (Auto) Items" = "1"
+ "BSA PIE Usecase Sales Org Regions (Auto)" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions Items" = "1"
+ "BSA PIE Usecase Sales Org Regions" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions (Override) Items" = "0"
+ "BSA PIE Usecase Sales Org Regions (Override)" = []
+---------------------------------------
+ "Material ID" = "000000000100058474"
+ "Total BSA PIE Usecase Sales Org Regions (Auto) Items" = "1"
+ "BSA PIE Usecase Sales Org Regions (Auto)" = ["China"]
+ "Total BSA PIE Usecase Sales Org Regions Items" = "1"
+ "BSA PIE Usecase Sales Org Regions" = ["China"]
+---------------------------------------

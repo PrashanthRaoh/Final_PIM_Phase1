@@ -1,0 +1,17 @@
+ "Material ID" = "000000000190000793"
+ "Status" = "Approved"
+ "X Plant Material Status Description (Global)" = ["Released-Production2"]
+ "X Plant Material Status Code (Global)" = ["20"]
+ "Weight - Product Only (lbs)" = ["5.478"]
+ "Weight - Product Only (kg)" = ["2.48"]
+ "UPC Number" = ["0053893632698"]
+ "Sellable Material ID" = ["000000000190000793"]
+ "Market Part Number" = ["SET443"]
+ "ECCN" = ["EAR99"]
+ "Book Description (ZB11)" = ["SET443-2"]
+ "Application Type Description" = ["MileMate Sets"]
+ "Selling UOM Description" = ["Piece"]
+ "Selling UOM Code" = ["PC"]
+ "Proprietary Indicator" = ["No"]
+ "Munitions Indicator" = ["No"]
+---------------------------------------

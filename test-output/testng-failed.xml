@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PIM_automation_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DigitalAssetOwner(failed)">
+    <parameter name="UseCaseOwner" value="DigitalAssetowner"/>
+    <classes>
+      <class name="pim.automation.framework.TC_008_DAM_Review_Unclassified_Images">
+        <methods>
+          <include name="initReport"/>
+          <include name="GetClassified_Images"/>
+          <include name="setUp"/>
+          <include name="publishReport"/>
+        </methods>
+      </class> <!-- pim.automation.framework.TC_008_DAM_Review_Unclassified_Images -->
+    </classes>
+  </test> <!-- DigitalAssetOwner(failed) -->
+</suite> <!-- Failed suite [PIM_automation_Suite] -->
