@@ -213,6 +213,7 @@ public class TC_008_DAM_Review_Unclassified_Images extends BaseTest {
 		// --------- Close the tab ---------
 		digitalssetPage.getLastTabCloseButton().click();
 		Thread.sleep(3000);
+		
 		}
 	}
 }
